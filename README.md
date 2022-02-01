@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheRedliner
 - 🚗 I’m interested in cars and coding.
 - 🌱 I’m currently learning C++ and reading into Web3
-- 💞️ I’m looking to collaborate on robotics projects and learn more about Blockchain.
+- 🤖 I’m looking to collaborate on robotics projects and learn more about Blockchain.
 
 
 <!---
